@@ -1,0 +1,5 @@
+{
+  "name": "AI Recruitment & Labor Law Assistant",
+  "description": "A specialized AI assistant for job seekers, providing expert advice on CVs, interviews, Vietnamese labor law, and personalized career learning roadmaps.",
+  "requestFramePermissions": ["microphone"]
+}
